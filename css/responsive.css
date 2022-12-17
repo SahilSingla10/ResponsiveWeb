@@ -146,10 +146,7 @@
 }
 @media screen and (max-width:470px) {
     #section1{
-        height: 50vh;
-    }
-    #section1 h1{
-        font-size: var(--fs-900);
+        height: 75vh;
     }
     .column-1 {
         margin-bottom: 0;
