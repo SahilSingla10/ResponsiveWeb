@@ -148,6 +148,9 @@
     #section1{
         height: 75vh;
     }
+    #section h1{
+        font-size: 60px;
+    }
     .column-1 {
         margin-bottom: 0;
     }
